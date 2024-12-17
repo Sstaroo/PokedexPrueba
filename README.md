@@ -21,7 +21,7 @@ Pokedex desarrollada con Vue.js para la práctica profesional en Clay Technologi
 
 1. Clona el repositorio:
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
+   git clone [<URL_DEL_REPOSITORIO>](https://github.com/Sstaroo/PokedexPrueba.git)
    ```
 2. Navega al directorio del proyecto:
     ```bash
