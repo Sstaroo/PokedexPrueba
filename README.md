@@ -25,10 +25,11 @@ Pokedex desarrollada con Vue.js para la práctica profesional en Clay Technologi
    ```
 2. Navega al directorio del proyecto:
     ```bash
-    cd nombre-del-proyecto
+    cd nombre-del-proyecto\PokedexPrueba
     ```
 3. Instala las dependencias:
     ```bash
+    npm install vue-router 
     npm install
 
     ```
