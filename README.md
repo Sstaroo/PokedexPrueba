@@ -1,6 +1,6 @@
 # **Pokédex en Vue.js**  
 
-Pokedex desarrollada con Vue.js para la práctica profesional en Clay Technologies.
+Pokedex desarrollada con Vue.js
 
 ---
 
